@@ -8,7 +8,7 @@ function Skill() {
     <section id="skill">
       <span className="skillTitle">What I do</span>
       <span className="skillDesc">
-        I am skilled and possionate wed developer with creating and visually
+        I am skilled and possionate web developer with creating and visually
         appealing user-friendly websites.I have a strong understanding of design
         and a keen eye for detail. I am proficient in HTML, CSS, JavaScript and
         React.

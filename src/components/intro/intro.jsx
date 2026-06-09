@@ -15,8 +15,8 @@ const Intro = () => {
         </span>
         Website Developer
         <p className="introPara">
-          I am skill Wedsite developer with experience in <br />
-          creating visually appealing and user-frinendly wedsites.
+          I am skill Website developer with experience in <br />
+          creating visually appealing and user-friendly websites.
         </p>
         <Link>
           <button className="btn">
